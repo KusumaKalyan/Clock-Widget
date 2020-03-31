@@ -1,0 +1,1 @@
+move "Clock And Weather Widget\Clock And Weather Widget.exe - Shortcut.lnk" "C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
